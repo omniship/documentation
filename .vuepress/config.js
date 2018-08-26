@@ -1,6 +1,8 @@
 module.exports = {
-    title: 'Omniship',
     base: '/',
+
+    title: 'Omniship',
+    description: 'Framework agnostic shipping library for PHP',
 
     themeConfig: {
         repo: 'omniship/omniship',
