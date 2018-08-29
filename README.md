@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /
+actionLink: /guide/
 ---
 
 <div class="features">
