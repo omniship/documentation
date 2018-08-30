@@ -15,10 +15,10 @@ module.exports = [
     },
     {
         title: 'Carriers',
-        collapsable: false,
+        collapsable: true,
         children: prefix('carriers', [
             '',
-            'configuring',
+            'carrier-ups',
         ]),
     },
 ]

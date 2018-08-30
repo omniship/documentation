@@ -13,7 +13,7 @@ module.exports = {
         displayAllHeaders: true,
 
         editLinks: true,
-        editLinkText: 'Found a mistake or want to contribute to the documentation?',
+        // editLinkText: 'Found a mistake or want to contribute to the documentation?',
 
         nav: [
             {text: 'Guide', link: '/guide/',},
