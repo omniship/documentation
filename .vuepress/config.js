@@ -10,7 +10,7 @@ module.exports = {
         docsRepo: 'omniship/documentation',
         docsBranch: 'docs',
 
-        displayAllHeaders: true,
+        displayAllHeaders: false,
 
         editLinks: true,
         // editLinkText: 'Found a mistake or want to contribute to the documentation?',
